@@ -1,6 +1,6 @@
 # registers-Verilog
-Verilog implementation of  parallel and serial registers
-\n Parallel In Parallel Out- pipo.v
-\n Parallel In Serial Out- piso.v
-\n Serial In Parallel Out- sipo.v
-\n Serial In Serial out- siso.v
+Verilog implementation of  parallel and serial registers <br>
+Parallel In Parallel Out- pipo.v <br>
+Parallel In Serial Out- piso.v <br>
+Serial In Parallel Out- sipo.v <br>
+Serial In Serial out- siso.v
